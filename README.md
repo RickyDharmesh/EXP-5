@@ -39,7 +39,8 @@ A zener diode is heavily doped p-n junction diode, specially made to operate in 
 
 
 ### Output-Line Regulation:
-<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/aa4ca031-f04b-49f8-b0fb-ac82524cf878" />
+
+<img width="1037" height="620" alt="Screenshot 2025-12-26 202029" src="https://github.com/user-attachments/assets/f74a2e22-5db1-4be0-a407-3bbe7a6794f9" />
 
 
 ### Load Regulation:
@@ -52,7 +53,9 @@ A zener diode is heavily doped p-n junction diode, specially made to operate in 
 
 
 ## Output-Load Regulation:
-<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/c78471b1-d181-424e-9757-d1b08115f17c" />
+
+<img width="1039" height="616" alt="Screenshot 2025-12-26 202040" src="https://github.com/user-attachments/assets/ca8f9f83-39d5-4f3f-99a3-84d133767e51" />
+
 
 ## PRECAUTIONS:
 
